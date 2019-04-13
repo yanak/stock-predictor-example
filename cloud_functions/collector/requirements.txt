@@ -1,0 +1,4 @@
+firebase-admin>=2.15.1,<2.16.0
+google-api-python-client>=1.7.8,<1.8.0
+requests>=2.21.0,<2.22.0
+jaconv>=0.2.4,<0.3.0
